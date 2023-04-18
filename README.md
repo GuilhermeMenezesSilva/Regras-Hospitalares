@@ -2,4 +2,4 @@
 Manual online de etiquetas e boas maneiras para orientação de familiares/amigos que desejam fazer uma visita para uma pessoa hospitalizada
 
 Abra em seu navegador com o link a seguir:
-<a href="https://guilhermemenezessilva.github.io/Regras-Hospitalares/"> 
+https://guilhermemenezessilva.github.io/Regras-Hospitalares/
